@@ -127,6 +127,7 @@ p {
   font-size: 18px;
 }
 button {
+  color: #fff;
   width: 220px;
   text-transform: uppercase;
   border: 2px solid #fff;
